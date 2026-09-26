@@ -45,8 +45,9 @@
 
 ## Deployed Version
 
-> **Note:** The live deployment hosted on AWS (`nestify.systems`) is currently offline due to the expiration of the AWS Free Tier.
-> You can test all endpoints locally or inspect the full API capabilities via the Postman Documentation below.
+> **Note:** Live deployment is currently offline (AWS Free Tier expired).
+> 
+> Feel free to test it locally or check out the [Postman Documentation](https://documenter.getpostman.com/view/30055418/2sAYBUCBuW)
 
 - 🔗 **Live Demo (Offline):** https://nestify.systems/
 - 📄 **Postman API Documentation:** [E-Commerce API Documentation](https://documenter.getpostman.com/view/30055418/2sAYBUCBuW)
