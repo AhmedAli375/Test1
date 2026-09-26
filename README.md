@@ -45,7 +45,9 @@
 
 ## Deployed Version
 
-> **Note:** Live deployment is currently offline (AWS Free Tier expired).
+> [!NOTE]
+> Live deployment is currently offline (AWS Free Tier expired).
+> 
 > Feel free to test it locally or check out the [Postman Documentation](https://documenter.getpostman.com/view/30055418/2sAYBUCBuW)
 
 - 🔗 **Live Demo (Offline):** https://nestify.systems/
